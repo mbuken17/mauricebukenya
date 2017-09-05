@@ -1,0 +1,111 @@
+
+h1 {
+	width:1000px;
+	border-radius:5px;
+	height:40px;
+	text-align: center;
+	font-style:bold;
+	text-transform:uppercase;
+	color:white;
+	background-color:black;
+	margin:20px;
+	font-size:25px;
+	padding-top:10px;
+
+}
+
+.jobsearch {
+	width:350px;
+	height:70px;
+	font-size: 30px;
+	padding-top: 20px;
+	padding-left:130px;
+	color: blue;
+	text-align:center;
+	
+}
+
+.jobsearch p {
+	
+	color: darkblue;
+	
+}
+
+
+body {
+	font-family: 'Raleway',sans-serif;
+}
+
+img.picture  {
+	width: 80px;
+	height: 22px;
+	padding-top:150px;
+	padding-right:100px
+	
+	
+}
+
+
+#navigation {
+	text-align:center;
+		
+	
+}
+
+#navigation a {
+	text-decoration:none;
+	
+}
+
+p {
+	color:black;
+	line-height: 32px;
+	font-family: 'Rale-way', sans-serif;
+	font-size: 18px;
+	font-weight:100;
+}
+
+.right {
+	
+	float:right;
+	height: 2000px;
+	width: 740px;
+	
+	
+}
+
+.left {
+	border:1px dotted black;
+	border-radius:20px;
+	float:left;
+	display:block;
+	height: 440px;
+	width: 210px;
+	padding:10px;
+	margin-top:20px;
+	text-decoration: none;
+
+}
+
+.all {
+
+	border-top:1px dotted black;
+	height:400px;
+	width:1000px;
+	margin:auto;
+	padding:20px 5px 5px 5px;
+	border-radius:15px;
+	
+
+}
+
+img.pic {
+	height: 220px;
+	width: 210px;
+	
+}
+
+ul li a {
+	text-decoration:none;
+	font-size:10px;
+}
